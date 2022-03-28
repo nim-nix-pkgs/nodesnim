@@ -11,6 +11,7 @@
   inputs.src-nodesnim-master.ref   = "refs/heads/master";
   inputs.src-nodesnim-master.owner = "Ethosa";
   inputs.src-nodesnim-master.repo  = "nodesnim";
+  inputs.src-nodesnim-master.dir   = "";
   inputs.src-nodesnim-master.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";

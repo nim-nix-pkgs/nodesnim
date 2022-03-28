@@ -11,6 +11,7 @@
   inputs.src-nodesnim-nightly-0_3_0c.ref   = "refs/tags/nightly-0.3.0c";
   inputs.src-nodesnim-nightly-0_3_0c.owner = "Ethosa";
   inputs.src-nodesnim-nightly-0_3_0c.repo  = "nodesnim";
+  inputs.src-nodesnim-nightly-0_3_0c.dir   = "";
   inputs.src-nodesnim-nightly-0_3_0c.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

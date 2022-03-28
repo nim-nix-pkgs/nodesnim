@@ -11,6 +11,7 @@
   inputs.src-nodesnim-stable-0_2_4.ref   = "refs/tags/stable-0.2.4";
   inputs.src-nodesnim-stable-0_2_4.owner = "Ethosa";
   inputs.src-nodesnim-stable-0_2_4.repo  = "nodesnim";
+  inputs.src-nodesnim-stable-0_2_4.dir   = "";
   inputs.src-nodesnim-stable-0_2_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
