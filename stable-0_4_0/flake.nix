@@ -11,7 +11,6 @@
   inputs.src-nodesnim-stable-0_4_0.ref   = "refs/tags/stable-0.4.0";
   inputs.src-nodesnim-stable-0_4_0.owner = "Ethosa";
   inputs.src-nodesnim-stable-0_4_0.repo  = "nodesnim";
-  inputs.src-nodesnim-stable-0_4_0.dir   = "";
   inputs.src-nodesnim-stable-0_4_0.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";

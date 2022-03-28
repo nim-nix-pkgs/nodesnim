@@ -11,7 +11,6 @@
   inputs.src-nodesnim-nightly-0_4_1a.ref   = "refs/tags/nightly-0.4.1a";
   inputs.src-nodesnim-nightly-0_4_1a.owner = "Ethosa";
   inputs.src-nodesnim-nightly-0_4_1a.repo  = "nodesnim";
-  inputs.src-nodesnim-nightly-0_4_1a.dir   = "";
   inputs.src-nodesnim-nightly-0_4_1a.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";
